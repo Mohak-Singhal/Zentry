@@ -1,13 +1,5 @@
 import React from 'react' 
 
-const BentoTilt=()=>{
-    return(
-        <div>
-            
-        </div>
-    )
-}
-
 const BentoCard = ({src,title,description}) => {
   return (
     <div className='relative size-full'>
