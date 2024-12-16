@@ -1,6 +1,5 @@
 import React from 'react'
 import Home from './components/Home'
-import Story from './components/Story'
 import About from './components/About'
 import Navbar from './components/Navbar'
 import Features from './components/Features'

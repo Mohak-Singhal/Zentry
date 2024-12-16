@@ -2,7 +2,7 @@ import { useGSAP } from '@gsap/react'
 import gsap from 'gsap/all'
 import React from 'react'
 import ScrollTrigger from 'gsap/all'
-import AnimatedTitle from './AnimatedTitle'
+import AnimatedTitle from './AnimatedTitle.jsx'
 const About = () => {
     useGSAP(()=>{
         const clipAnimation=gsap.timeline({
