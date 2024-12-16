@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import BentoCard from "./Bentocard";
+import BentoCard from "./Bentocard.jsx";
 
 const BentoTilt = ({ children, className = "" }) => {
   const [transformStyle, setTransformStyle] = useState("");
